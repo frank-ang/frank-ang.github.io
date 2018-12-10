@@ -2,25 +2,25 @@
 
 This is a collection of some of my projects. These are primarily utilities and samples around Amazon Web Services and Solution Architectures. I've started releasing projects on GitHub only recently in 2018. Prior to that, I've been developing closed-source projects for an AWS service team.
 
-[Linkedin profile](https://www.linkedin.com/in/frankang/) 
+[Linkedin profile: frankang](https://www.linkedin.com/in/frankang/) 
 
-[GitHub repositories] (https://github.com/frank-ang/) 
+[GitHub repositories: frank-ang](https://github.com/frank-ang/) 
 
 ### Projects
 
 #### Multi-language Bot example
-(https://github.com/frank-ang/MultilanguageBot)
+https://github.com/frank-ang/MultilanguageBot
 
 #### Exchange Rates example
-(https://github.com/frank-ang/exchange-rates)
+https://github.com/frank-ang/exchange-rates
 Finds the optimal exchange rate between any 2 pairs of (exchange,currency). Solves the Lowest-cost multi-exchange path problem using a modified Floyd-Warshall algorithm. Python implementation.
 
 ### AWS Organizational Tools
-(https://github.com/frank-ang/OrganizationTools)
+https://github.com/frank-ang/OrganizationTools
 Bag of scripts to manage Organization Service Control Policies, and stores SSO policies.
 
 ### AccountCleaner
-(https://github.com/frank-ang/AccountCleaner)
+https://github.com/frank-ang/AccountCleaner
 Cleans up AWS resources in an account. Useful to cleanup after running workshops for attendees using sandbox accounts under an AWS Organization.
 
 <!-- 
