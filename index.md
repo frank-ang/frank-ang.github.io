@@ -6,15 +6,13 @@ A collection of utilities and samples.
 
 [GitHub repositories: frank-ang](https://github.com/frank-ang/) 
 
-### Projects
-
-#### Exchange Rates Pathfinder
+### Exchange Rates Pathfinder
 
 [GitHub repo](https://github.com/frank-ang/exchange-rates)
 
 Finds the optimal exchange rate between any 2 pairs of (exchange,currency). It solves the Lowest-cost multi-exchange path problem using a modified Floyd-Warshall algorithm, implemented in Python.
 
-#### AWS Organizational Tools
+### AWS Organizational Tools
 
 [GitHub repo](https://github.com/frank-ang/OrganizationTools)
 
@@ -22,7 +20,7 @@ Bag of AWS boto3 scripts to define and apply AWS Organization Service Control Po
 
 Features an account-cleaner tool to nuke resources in an AWS Account. Intended to cleanup after running full-day workshops with attendees using sandbox accounts under an AWS Organization.
 
-#### Multi-language Chatbot
+### Multi-language Chatbot
 
 [GitHub repo](https://github.com/frank-ang/MultilanguageBot)
 
