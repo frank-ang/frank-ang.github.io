@@ -28,8 +28,6 @@ Nukes resources in an AWS Account. Useful to cleanup after running workshops for
 
 #### Multi-language Bot
 
-https://github.com/frank-ang/MultilanguageBot
-
 [GitHub repo](https://github.com/frank-ang/MultilanguageBot)
 
 Simple multi-language chatbot. Basic idea is to stick a translator (AWS Translate) calls in front of the English chatbot (AWS Lex Order Flowers example).
