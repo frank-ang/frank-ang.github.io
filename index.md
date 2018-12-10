@@ -1,6 +1,6 @@
 ## Frank Ang
 
-This is a collection of some of my projects. These are primarily utilities and samples around Amazon Web Services and Solution Architectures. I've started releasing projects on GitHub only recently in 2018. Prior to that, I've been developing closed-source projects for an AWS service team.
+A collection of utilities and samples. 
 
 [Linkedin profile: frankang](https://www.linkedin.com/in/frankang/) 
 
@@ -8,22 +8,21 @@ This is a collection of some of my projects. These are primarily utilities and s
 
 ### Projects
 
-#### Exchange Rates example
-https://github.com/frank-ang/exchange-rates
-Finds the optimal exchange rate between any 2 pairs of (exchange,currency). Solves the Lowest-cost multi-exchange path problem using a modified Floyd-Warshall algorithm. Python implementation.
+#### Exchange Rates Pathfinder
+(https://github.com/frank-ang/exchange-rates)
+Finds the optimal exchange rate between any 2 pairs of (exchange,currency). It solves the Lowest-cost multi-exchange path problem using a modified Floyd-Warshall algorithm, implemented in Python.
 
 #### AWS Organizational Tools
-https://github.com/frank-ang/OrganizationTools
-Bag of scripts to manage Organization Service Control Policies, and stores SSO policies.
+(https://github.com/frank-ang/OrganizationTools)
+Bag of AWS boto3 scripts to define and apply AWS Organization Service Control Policies, and defines AWS SSO policies. The intent is for technical instructors to define IAM boundaries and restrict access to workshop attendees who would be provisioned access to sandboxed linked accounts under the AWS Organization.
 
 #### AccountCleaner
-https://github.com/frank-ang/AccountCleaner
-Cleans up AWS resources in an account. Useful to cleanup after running workshops for attendees using sandbox accounts under an AWS Organization.
+(https://github.com/frank-ang/AccountCleaner)
+Nukes resources in an AWS Account. Useful to cleanup after running workshops for attendees using sandbox accounts under an AWS Organization.
 
-#### Multi-language Bot example
-Simple multi-language chatbot. Basic idea is to stick a translator (AWS Translate) calls in front of the English chatbot (AWS Lex Order Flowers example). 
-https://github.com/frank-ang/MultilanguageBot
-
+#### Multi-language Bot
+(https://github.com/frank-ang/MultilanguageBot)
+Simple multi-language chatbot. Basic idea is to stick a translator (AWS Translate) calls in front of the English chatbot (AWS Lex Order Flowers example).
 
 <!-- 
 
