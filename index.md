@@ -12,11 +12,11 @@ This is a collection of some of my projects. These are primarily utilities and s
 https://github.com/frank-ang/exchange-rates
 Finds the optimal exchange rate between any 2 pairs of (exchange,currency). Solves the Lowest-cost multi-exchange path problem using a modified Floyd-Warshall algorithm. Python implementation.
 
-### AWS Organizational Tools
+#### AWS Organizational Tools
 https://github.com/frank-ang/OrganizationTools
 Bag of scripts to manage Organization Service Control Policies, and stores SSO policies.
 
-### AccountCleaner
+#### AccountCleaner
 https://github.com/frank-ang/AccountCleaner
 Cleans up AWS resources in an account. Useful to cleanup after running workshops for attendees using sandbox accounts under an AWS Organization.
 
