@@ -20,17 +20,13 @@ Finds the optimal exchange rate between any 2 pairs of (exchange,currency). It s
 
 Bag of AWS boto3 scripts to define and apply AWS Organization Service Control Policies, and defines AWS SSO policies. The intent is for technical instructors to define IAM boundaries and restrict access to workshop attendees who would be provisioned access to sandboxed linked accounts under the AWS Organization.
 
-#### AccountCleaner
+Features an account-cleaner tool to nuke resources in an AWS Account. Intended to cleanup after running full-day workshops with attendees using sandbox accounts under an AWS Organization.
 
-[GitHub repo](https://github.com/frank-ang/AccountCleaner)
-
-Nukes resources in an AWS Account. Useful to cleanup after running workshops for attendees using sandbox accounts under an AWS Organization.
-
-#### Multi-language Bot
+#### Multi-language Chatbot
 
 [GitHub repo](https://github.com/frank-ang/MultilanguageBot)
 
-Simple multi-language chatbot. Basic idea is to stick a translator (AWS Translate) calls in front of the English chatbot (AWS Lex Order Flowers example).
+Basic idea is to place a translator (AWS Translate) in front of an English-language-only chatbot (AWS Lex). Using this pattern, any supported X-to-English pair in AWS Translate can be used to mediate between the caller and a back-end mono-language API.
 
 <!-- 
 
@@ -56,11 +52,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frank-ang/frank-ang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
