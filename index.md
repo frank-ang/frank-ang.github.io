@@ -26,6 +26,12 @@ Features an account-cleaner tool to nuke resources in an AWS Account. Intended t
 
 Basic idea is to place a translator (AWS Translate) in front of an English-language-only chatbot (AWS Lex). Using this pattern, any supported X-to-English pair in AWS Translate can be used to mediate between the caller and a back-end mono-language API.
 
+### Wordpress containers on AWS ECS, Fargate, and RDS Aurora
+
+[GitHub repo](https://github.com/frank-ang/wordpress-stack)
+
+Cloudformation nested stacks for security, database, and ECS service.
+
 <!-- 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
