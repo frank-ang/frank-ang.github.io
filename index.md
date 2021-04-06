@@ -26,11 +26,27 @@ Features an account-cleaner tool to nuke resources in an AWS Account. Intended t
 
 Basic idea is to place a translator (AWS Translate) in front of an English-language-only chatbot (AWS Lex). Using this pattern, any supported X-to-English pair in AWS Translate can be used to mediate between the caller and a back-end mono-language API.
 
-### Wordpress containers on AWS ECS, Fargate, and RDS Aurora
+### Amplify React Tutoral.
 
-[GitHub repo](https://github.com/frank-ang/wordpress-stack)
+[GitHub repo](https://github.com/frank-ang/amplify-react-tutorial)
 
 Cloudformation nested stacks for security, database, and ECS service.
+
+Tutoral on how to use AWS Amplify and Bootstrap to create ReactJS web apps that call AWS services, including AI/ML examples.
+
+### Rice Disease Detection
+
+[GitHub repo](https://github.com/frank-ang/rice-disease-rekognition)
+
+Help farmers and agricultural businesses detect rice disease at scale. Rice disease image detection with Amazon Rekognition Custom Labels. 
+
+### Fortune API
+
+[GitHub repo](https://github.com/frank-ang/rubegoldberg)
+
+The good old UNIX fortune command, re-implemented as a RESTful API that returns a famous quote. Built on AWS API Gateway, Golang, with MySQL, ElasticSearch, and Redis back-ends. I use this example in my upcoming session at [AWS Summit Online ASEAN, 18-19 May 2021](https://aws.amazon.com/events/summits/online/asean/)
+
+
 
 <!-- 
 
